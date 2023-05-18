@@ -1,5 +1,6 @@
 ---
 title: ApneaLab Data & Privacy documents
+layout: template
 filename: index
 --- 
 
