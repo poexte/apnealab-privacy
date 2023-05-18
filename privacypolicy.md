@@ -1,3 +1,8 @@
+---
+title: Privacy Policy
+filename: privacypolicy
+--- 
+
 # Privacy Policy 
 
 ### What, when, and how we collect data
