@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-filename: privacypolicy
+filename: policy
 --- 
 
 # Privacy Policy 
